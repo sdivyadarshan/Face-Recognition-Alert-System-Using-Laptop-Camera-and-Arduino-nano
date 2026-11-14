@@ -1,0 +1,11 @@
+Module,Signal,Arduino Nano Pin,Notes
+Push button,Terminal 1,D9,INPUT_PULLUP
+Push button,Terminal 2,GND,Button shorts D9 to GND
+Buzzer,Signal or positive,D8,Status sound
+Buzzer,GND or negative,GND,Common ground
+Red LED,Anode through resistor,D4,Failure indicator
+Red LED,Cathode,GND,Common ground
+I2C LCD,SDA,A4,I2C data
+I2C LCD,SCL,A5,I2C clock
+I2C LCD,VCC,5V,Verify module voltage
+I2C LCD,GND,GND,Common ground
