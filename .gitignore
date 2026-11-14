@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+credentials.json
+database/
+attendance-export/
+captures/
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+media/*.mp4
+media/*.mov
